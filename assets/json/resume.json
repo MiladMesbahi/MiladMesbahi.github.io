@@ -61,14 +61,43 @@
   ],
   "volunteer": [
     {
-      "organization": "Example Organization",
-      "location": "Example City, Country",
-      "position": "Volunteer Role",
-      "url": "https://example.com",
-      "startDate": "2023-01-01",
-      "endDate": "2023-12-01",
-      "summary": "Example volunteer work summary.",
-      "highlights": ["Example highlight 1", "Example highlight 2"]
+      "organization": "NAACP Youth State Treasurer",
+      "location": "Seattle, WA, USA",
+      "position": "State Treasurer",
+      "url": "https://naacp-youth-coalition.webnode.page/",
+      "startDate": "2018-10-01",
+      "endDate": "2020-06-01",
+      "summary": "Managed financial records and budgeting for youth programs, supporting initiatives aimed at promoting social justice, equality, and civil rights education.",
+      "highlights": [
+        "Oversaw budget planning and allocation for grant funding to support DEI and ethnic studies curricula in Seattle Public Schools.",
+        "Spoke at various conferences and worked with teachers across King and Pierce County to help redefine their approach to classroom teaching and material."
+      ]
+    },
+    {
+      "organization": "Hunger Intervention Program",
+      "location": "Seattle, WA, USA",
+      "position": "Volunteer",
+      "url": "https://hungerintervention.org",
+      "startDate": "2019-01-01",
+      "endDate": "2019-09-01",
+      "summary": "Cooked, prepared and served meals for underpriviliged youth in and around the Seattle Area.",
+      "highlights": [
+        "Helped prepare and serve over 500 meals to families in need.",
+        "Collaborated with a team of volunteers to organize community outreach events."
+      ]
+    },
+    {
+      "organization": "Lifeguard at LBC",
+      "location": "Seattle, WA, USA",
+      "position": "Lifeguard",
+      "url": "https://laurelhurstbeachclub.com/",
+      "startDate": "2020-05-01",
+      "endDate": "2020-10-01",
+      "summary": "Ensured the safety of swimmers and patrons at a busy public pool, provided first aid when necessary, and assisted with pool management tasks.",
+      "highlights": [
+        "Performed regular water rescues and first aid for minor injuries.",
+        "Maintained a safe and welcoming environment for all visitors."
+      ]
     }
   ],
   "education": [
@@ -89,40 +118,6 @@
       "studyType": "B.S.",
       "startDate": "2020-09-01",
       "endDate": "2024-06-01"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Example Award",
-      "date": "2023-11-01",
-      "awarder": "Example Awarder",
-      "url": "https://example.com",
-      "summary": "Description of the award and why it was received."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Example Publication Title",
-      "publisher": "Example Publisher",
-      "releaseDate": "2022-06-01",
-      "url": "https://example.com",
-      "summary": "Summary of the publication."
     }
   ],
   "skills": [
@@ -151,54 +146,63 @@
     {
       "language": "English",
       "fluency": "Native speaker"
+      
+    },
+    {
+      "language": "Farsi (Persian)",
+      "fluency": "Fluent"
+      
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+      
     }
   ],
   "interests": [
     {
-      "name": "Fitness, Art, Basketball, Reading",
-      "keywords": ["Web Development", "Piano"]
-    }
-  ],
-  "references": [
+      "name": "Fitness",
+      "keywords": ["Muay Thai", "Basketball","Weightlifting, Cycling"]
+    },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Reference text goes here."
+      "name": "Humanities",
+      "keywords": ["Economics", "Politics","Philosophy", "Sociology"]
+    },
+    {
+      "name": "Art",
+      "keywords": ["Piano, Chess"]
     }
   ],
   "projects": [
     {
+      "name": "Senior Capstone Project: Autonomous Rover 2.0",
+      "summary": "Mechanical design lead and programming co-lead for an autonomous rover with computer vision, object handling, and course navigation.",
+      "highlights": ["As my senior capstone project at UCLA, our team of five built a rover over two quarters. Designed to navigate an obstacle course, the rover identified, collected, and delivered burger-forming discs using IR sensors and computer vision. As the mechanical design lead and co-lead for programming, I ensured robust structure and functionality within a $500 budget. The Mecanum wheel drive system provided omnidirectional movement, and a stepper motor-controlled claw handled stacking. Using a Raspberry Pi Zero 2 W and OpenCV, the computer vision system detected die numbers on discs for collection order and drop-off location. Our rover successfully completed the course, being the only group to use camera software for die number detection."]
+    },
+    {
       "name": "Autonomous Rover",
       "summary": "Engineered a wireless-controlled rover capable of autonomous navigation and environmental interaction.",
-      "highlights": ["Integrated embedded systems and control mechanisms."],
-      "startDate": "",
-      "endDate": ""
+      "highlights": ["In my first hands-on robotics venture, I designed and built an autonomous rover capable of navigating an obstacle course. Using SolidWorks, I developed a robust chassis to house all components efficiently. Our grabbing mechanism used rubberized clampers for object retrieval. The project extensively employed 3D printing technology, utilizing Prusa slicer software and UCLA's facilities to create parts like motor mounts and battery pack holders. I also spearheaded programming, optimizing Arduino code for intelligent navigation and decision-making."]
     },
     {
       "name": "Robotic Battle Bot",
-      "summary": "Led the design and construction of a one-pound combat robot.",
-      "highlights": ["Finished 2nd place in student competition."],
-      "startDate": "",
-      "endDate": ""
+      "summary": "Led the design and construction of a one-pound battle robot that finished 2nd place in student competition.",
+      "highlights": ["As a team of 2, we engineered a 1-pound combat robot, focusing on balancing durability and agility. Using high-quality aluminum, I optimized the strength-to-weight ratio while maintaining structural integrity. The robot's standout feature was an 'egg beater' weapon, comprising 30% of the total mass, designed to undercut opponents effectively. Although manually controlled via Bluetooth, we ensured robust electronic setup and protection for intense combat scenarios. Leveraging Finite Element Method (FEM) analyses, I reinforced structural weak points, leading to iterative improvements. Our compact and strategic design earned a notable second place in a highly competitive battle."]
     },
     {
       "name": "Robotic Arm Manipulator Design",
       "summary": "Designed a CAD octopus-inspired robotic manipulator achieving six degrees of freedom with 60 unique parts.",
-      "startDate": "",
-      "endDate": ""
+      "highlights": ["In our SolidWorks CAD project, we designed a robotic manipulator inspired by an octopus tentacle's flexibility, suitable for manufacturing. We adhered to seven key specifications, including achieving six degrees of freedom, emulating ball joint mobility, and maximizing joint motion range while ensuring design simplicity with axial revolution, planar rotation, and Servo-Motor CAD. The final design featured five subassemblies, using a mix of off-the-shelf parts and 3D-printed ABS thermoplastic components. Although the initial design met basic criteria, future iterations will focus on joint complexity, weight optimization, and advanced manufacturing techniques."]
     },
     {
       "name": "Compliant MEMS micro-mirror system",
       "summary": "Modeled a high-speed, precision flexure-based micro-mirror for adaptive optics.",
-      "highlights": ["Optimized natural frequency and reduced unwanted motion."],
-      "startDate": "",
-      "endDate": ""
+      "highlights": ["I designed and optimized a MEMS-based compliant micro-mirror system with a single translational degree of freedom for precise light modulation in adaptive optics. Utilizing the Freedom and Constraint Topologies (FACT) framework and Finite Element Analysis (FEA), the micro-mirror achieved a maximum displacement of 125 micrometers with minimal parasitic motion. The design employed six wire flexures and parallel plate actuators to ensure high-speed operation and energy efficiency."]
     },
     {
-      "name": "Senior Capstone Project: Autonomous Rover 2.0",
-      "summary": "Mechanical design lead and programming co-lead for an autonomous rover with computer vision, object handling, and course navigation.",
-      "startDate": "",
-      "endDate": ""
+      "name": "Arduino-based Guitar Tuner",
+      "summary": "Built unique guitar tuner from scratch using physics principles.",
+      "highlights": ["In this project, I developed aguitar tuner using physics principles, Fourier transforms, and Python analysis. Utilizing a microphone and Arduino, the tuner accurately identifies guitar notes and tuning accuracy, though it slightly underestimates the low E note (82.4 Hz), leading to flat tunings. Python analysis showed higher strings have dominant frequencies beyond the expected one. The main constraints are the microphone's sensitivity range and the Arduino's limited computational capacity, affecting precision for certain notes."]
     }
   ]
 }
