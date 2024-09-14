@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: Capstone Autonomous Rover 2.0
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/rover2.jpg
 importance: 1
 category: work
 related_publications: true
