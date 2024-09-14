@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile.JPEG
+  image: assets/img/NewImages/profile.JPEG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Philadelphia, PA</p>
