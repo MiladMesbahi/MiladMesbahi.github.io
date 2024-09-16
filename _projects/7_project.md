@@ -5,7 +5,7 @@ description: Guitar Tuner Built From Scratch Using Physics Principles
 img: assets/img/tuner1.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 In this project, I developed a guitar tuner using physics principles, Fourier transforms, and Python analysis. Utilizing a microphone and Arduino, the tuner accurately identifies guitar notes and tuning accuracy, though it slightly underestimates the low E note (82.4 Hz), leading to flat tunings. 

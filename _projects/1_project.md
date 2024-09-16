@@ -5,7 +5,7 @@ description: UCLA Capstone Project
 img: assets/img/NewImages/rover2.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 As my senior capstone project at UCLA, our team of five built a rover over two quarters. Designed to navigate an obstacle course, the rover identified, collected, and delivered burger-forming discs using IR sensors and computer vision. 
@@ -31,7 +31,5 @@ As the mechanical design lead and co-lead for programming, I ensured robust stru
         {% include figure.liquid loading="eager" path="assets/img/NewImages/rover2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+
 

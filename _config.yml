@@ -133,8 +133,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: My Idea Space # blog_name will be displayed in your blog page
-blog_description: Diving into ideas, projects, and discoveries at the intersection of engineering, robotics, and humanity.
+blog_name: Idea Space # blog_name will be displayed in your blog page
+blog_description: Follow what I am consuming and creating, whether it be ideas, projects, or discoveries at the intersection of engineering, robotics, and humanity. 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

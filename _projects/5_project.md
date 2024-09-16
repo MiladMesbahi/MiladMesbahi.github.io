@@ -5,7 +5,7 @@ description: High-speed, Precision Flexure-based Micro-mirror
 img: assets/img/NewImages/mirror1.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 I designed and optimized a MEMS-based micro-mirror system with a single translational degree of freedom for high-precision optical applications. Utilizing the Freedom and Constraint Topologies (FACT) framework from Professor Jonathan Hopkins and Finite Element Analysis (FEA), I developed a micro-mirror system that incorporated six wire flexures and two parallel plate actuators, enabling precise light modulation with minimal parasitic motion and a maximum displacement of 125 micrometers. 
 

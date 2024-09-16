@@ -5,7 +5,7 @@ description: My First Advanced Robotics Project
 img: assets/img/NewImages/auto1.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 In my first hands-on robotics venture, I designed and built an autonomous rover capable of navigating an obstacle course. Using SolidWorks, I developed a robust chassis to house all components efficiently. Our grabbing mechanism used rubberized clampers for object retrieval. 
 

@@ -5,7 +5,7 @@ description: Active Suspension System Design using MATLAB and Simulink
 img: assets/img/NewImages/control0.jpg
 importance: 4
 category: work
-related_publications: true
+related_publications: false
 
 ---
 I developed a controller for an active car suspension system using MATLAB and Simulink, focusing on minimizing vehicle oscillations to enhance passenger comfort. 

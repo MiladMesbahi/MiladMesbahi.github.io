@@ -5,7 +5,7 @@ description: UCLA Battle Bot Competition
 img: assets/img/NewImages/bot1.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 As a team of 2, we engineered a 1-pound combat robot, focusing on balancing durability and agility. Using high-quality aluminum, I optimized the strength-to-weight ratio while maintaining structural integrity. This was done using force analysis, center of mass calculations and Finite Element Analysis (FEA). 
