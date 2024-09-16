@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: C:\Users\milad\Desktop\miladmesbahi.github.io\assets\img\NewImages\profile2.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Philadelphia, PA</p>
