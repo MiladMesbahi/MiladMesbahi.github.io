@@ -3,8 +3,9 @@ layout: page
 title: Robotic Arm Manipulator Design 
 description: 6 Degree of Freedom Manipulator Designed for Manufacturing Feasibility
 img: assets\img\NewImages\cad4.jpg
-importance: 3
-category: fun
+importance: 1
+category: work
+related_publications: true
 ---
 In my final project for a Computer Aided Design (CAD) course at UCLA, I designed a robotic manipulator with the help of three other students. The design was inspired by an octopus tentacle's flexibility, suitable for manufacturing. 
 

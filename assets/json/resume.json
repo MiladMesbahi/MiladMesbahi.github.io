@@ -176,8 +176,7 @@
     },
     {
       "name": "Arduino-based Guitar Tuner",
-      "summary": "Built unique guitar tuner from scratch using physics principles.",
-      "highlights": ["In this project, I developed aguitar tuner using physics principles, Fourier transforms, and Python analysis. Utilizing a microphone and Arduino, the tuner accurately identifies guitar notes and tuning accuracy, though it slightly underestimates the low E note (82.4 Hz), leading to flat tunings. Python analysis showed higher strings have dominant frequencies beyond the expected one. The main constraints are the microphone's sensitivity range and the Arduino's limited computational capacity, affecting precision for certain notes."]
+      "summary": "Built unique guitar tuner from scratch using physics principles."
     }
   ],
   "volunteer": [
