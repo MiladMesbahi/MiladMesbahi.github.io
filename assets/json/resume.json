@@ -22,7 +22,27 @@
       }
     ]
   },
-  "work": [
+  "education": [
+    {
+      "institution": "University of Pennsylvania",
+      "location": "Philadelphia, PA",
+      "url": "https://www.upenn.edu",
+      "area": "Robotics",
+      "studyType": "M.S.",
+      "startDate": "2024-08-01",
+      "endDate": "2026-05-01"
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "location": "Los Angeles, CA",
+      "url": "https://www.ucla.edu",
+      "area": "Mechanical Engineering",
+      "studyType": "B.S.",
+      "startDate": "2020-09-01",
+      "endDate": "2024-06-01"
+    }
+  ],
+  "Experience": [
     {
       "name": "NASA (Jet Propulsion Laboratory)",
       "position": "Mechanical Engineering Intern",
@@ -57,69 +77,20 @@
       "highlights": [
         "Self-taught web development, UI/UX, and marketing."
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "NAACP Youth State Treasurer",
-      "location": "Seattle, WA, USA",
-      "position": "State Treasurer",
-      "url": "https://naacp-youth-coalition.webnode.page/",
-      "startDate": "2018-10-01",
-      "endDate": "2020-06-01",
-      "summary": "Managed financial records and budgeting for youth programs, supporting initiatives aimed at promoting social justice, equality, and civil rights education.",
-      "highlights": [
-        "Oversaw budget planning and allocation for grant funding to support DEI and ethnic studies curricula in Seattle Public Schools.",
-        "Spoke at various conferences and worked with teachers across King and Pierce County to help redefine their approach to classroom teaching and material."
-      ]
     },
     {
-      "organization": "Hunger Intervention Program",
-      "location": "Seattle, WA, USA",
-      "position": "Volunteer",
-      "url": "https://hungerintervention.org",
-      "startDate": "2019-01-01",
-      "endDate": "2019-09-01",
-      "summary": "Cooked, prepared and served meals for underpriviliged youth in and around the Seattle Area.",
+      "name": "BeReal",
+      "position": "Product Growth Intern",
+      "url": "",
+      "startDate": "2021-09-20",
+      "endDate": "2022=06-10",
+      "summary": "BeReal's first U.S. student employee in charge of launching the app in the Los Angeles area. The app was recently bought for $535 Million dollars. ",
       "highlights": [
-        "Helped prepare and serve over 500 meals to families in need.",
-        "Collaborated with a team of volunteers to organize community outreach events."
-      ]
-    },
-    {
-      "organization": "Lifeguard at LBC",
-      "location": "Seattle, WA, USA",
-      "position": "Lifeguard",
-      "url": "https://laurelhurstbeachclub.com/",
-      "startDate": "2020-05-01",
-      "endDate": "2020-10-01",
-      "summary": "Ensured the safety of swimmers and patrons at a busy public pool, provided first aid when necessary, and assisted with pool management tasks.",
-      "highlights": [
-        "Performed regular water rescues and first aid for minor injuries.",
-        "Maintained a safe and welcoming environment for all visitors."
+        "I led and came up with local marketing initiatives, employing guerilla tactics that made Los Angeles the fastest-growing user base at the time. Whether it be through massive events, on campus promotions, student deals, philanthropic growth initiatives, etc., I allowed my creativity to flourish and worked closley with the BeReal founding team to provide feature optimization feedback."
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Pennsylvania",
-      "location": "Philadelphia, PA",
-      "url": "https://www.upenn.edu",
-      "area": "Robotics",
-      "studyType": "M.S.",
-      "startDate": "2024-08-01",
-      "endDate": "2026-05-01"
-    },
-    {
-      "institution": "University of California, Los Angeles",
-      "location": "Los Angeles, CA",
-      "url": "https://www.ucla.edu",
-      "area": "Mechanical Engineering",
-      "studyType": "B.S.",
-      "startDate": "2020-09-01",
-      "endDate": "2024-06-01"
-    }
-  ],
+
   "skills": [
     {
       "name": "Engineering Programming",
@@ -161,12 +132,17 @@
   ],
   "interests": [
     {
-      "name": "Fitness",
-      "keywords": ["Muay Thai", "Basketball","Weightlifting, Cycling"]
+      "name": "Engineering",
+      "keywords": ["Robotics & Autonomy", "Aerospace","Machine Learning", "Multi-Agent Networks"]
     },
+  
     {
       "name": "Humanities",
       "keywords": ["Economics", "Politics","Philosophy", "Sociology"]
+    },
+    {
+      "name": "Fitness",
+      "keywords": ["Muay Thai", "Basketball","Weightlifting, Cycling"]
     },
     {
       "name": "Art",
@@ -202,6 +178,47 @@
       "name": "Arduino-based Guitar Tuner",
       "summary": "Built unique guitar tuner from scratch using physics principles.",
       "highlights": ["In this project, I developed aguitar tuner using physics principles, Fourier transforms, and Python analysis. Utilizing a microphone and Arduino, the tuner accurately identifies guitar notes and tuning accuracy, though it slightly underestimates the low E note (82.4 Hz), leading to flat tunings. Python analysis showed higher strings have dominant frequencies beyond the expected one. The main constraints are the microphone's sensitivity range and the Arduino's limited computational capacity, affecting precision for certain notes."]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "NAACP Youth State Treasurer",
+      "location": "Seattle, WA, USA",
+      "position": "State Treasurer",
+      "url": "https://naacp-youth-coalition.webnode.page/",
+      "startDate": "2018-10-01",
+      "endDate": "2020-06-01",
+      "summary": "Managed financial records and budgeting for youth programs, supporting initiatives aimed at promoting social justice, equality, and civil rights education.",
+      "highlights": [
+        "Oversaw budget planning and allocation for grant funding to support DEI and ethnic studies curricula in Seattle Public Schools.",
+        "Spoke at various conferences and worked with teachers across King and Pierce County to help redefine their approach to classroom teaching and material."
+      ]
+    },
+    {
+      "organization": "Hunger Intervention Program",
+      "location": "Seattle, WA, USA",
+      "position": "Volunteer",
+      "url": "https://hungerintervention.org",
+      "startDate": "2019-01-01",
+      "endDate": "2019-09-01",
+      "summary": "Cooked, prepared and served meals for underpriviliged youth in and around the Seattle Area.",
+      "highlights": [
+        "Helped prepare and serve over 500 meals to families in need.",
+        "Collaborated with a team of volunteers to organize community outreach events."
+      ]
+    },
+    {
+      "organization": "Lifeguard at LBC",
+      "location": "Seattle, WA, USA",
+      "position": "Lifeguard",
+      "url": "https://laurelhurstbeachclub.com/",
+      "startDate": "2020-05-01",
+      "endDate": "2020-10-01",
+      "summary": "Ensured the safety of swimmers and patrons at a busy public pool, provided first aid when necessary, and assisted with pool management tasks.",
+      "highlights": [
+        "Performed regular water rescues and first aid for minor injuries.",
+        "Maintained a safe and welcoming environment for all visitors."
+      ]
     }
   ]
 }
