@@ -170,10 +170,11 @@ disqus_shortname: milad # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
 #
-  - name: techcrunch.com
-    rss_url: https://techcrunch.com/2024/09/12/google-deepmind-teaches-a-robot-to-autonomously-tie-its-shoes-and-fix-fellow-robots/
+  - name: tech crunch
+    posts:
+      - url: https://techcrunch.com/2024/09/12/google-deepmind-teaches-a-robot-to-autonomously-tie-its-shoes-and-fix-fellow-robots/
     published_date: 2024-09-12
-  - name: mathscholar.org
+  - name: math scholar
     posts:
       - url: https://mathscholar.org/2021/06/bach-as-mathematician/
         published_date: 2021-06-04
