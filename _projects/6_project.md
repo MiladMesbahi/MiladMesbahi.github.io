@@ -2,9 +2,11 @@
 layout: page
 title: MatLab Quarter Car Model Controls
 description: Active Suspension System Design using MATLAB and Simulink
-img: assets\img\NewImages\control0.jpg
+img: assets/img/NewImages/control0.jpg
 importance: 4
-category: fun
+category: work
+related_publications: true
+
 ---
 I developed a controller for an active car suspension system using MATLAB and Simulink, focusing on minimizing vehicle oscillations to enhance passenger comfort. 
 
@@ -14,19 +16,19 @@ Additionally, I utilized MATLAB's SISOTOOL to fine-tune the compensator design, 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\NewImages\control1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NewImages/control1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\NewImages\control2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path=assets/img/NewImages/control2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\NewImages\control3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NewImages/control3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\NewImages\control0.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NewImages/control0.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

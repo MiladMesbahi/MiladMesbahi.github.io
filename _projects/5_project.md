@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Compliant MEMS micro-mirror system
-description: High-speed, precision flexure-based micro-mirror
-img: assets\img\NewImages\mirror1.jpg
+description: High-speed, Precision Flexure-based Micro-mirror
+img: assets/img/NewImages/mirror1.jpg
 importance: 1
 category: work
 related_publications: true
@@ -13,12 +13,12 @@ I optimized the design through simulations and MATLAB stiffness matrix models, a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\NewImages\mirror1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NewImages/mirror1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\NewImages\mirror2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NewImages/mirror2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\NewImages\mirror3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NewImages/mirror3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

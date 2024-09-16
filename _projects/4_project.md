@@ -2,7 +2,7 @@
 layout: page
 title: Robotic Arm Manipulator Design 
 description: 6 Degree of Freedom Manipulator Designed for Manufacturing Feasibility
-img: assets\img\NewImages\cad4.jpg
+img: assets/img/NewImages/cad4.jpg
 importance: 1
 category: work
 related_publications: true
@@ -15,19 +15,19 @@ Although the initial design met basic criteria, future iterations could focus on
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\NewImages\cad1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NewImages/cad1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\NewImages\cad2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NewImages/cad2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\NewImages\cad3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NewImages/cad3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\NewImages\cad4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NewImages/cad4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

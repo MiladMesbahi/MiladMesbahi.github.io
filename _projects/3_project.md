@@ -2,8 +2,8 @@
 layout: page
 title: Autonomous Rover
 description: My First Advanced Robotics Project
-img: assets\img\NewImages\auto1.jpgs
-importance: 3
+img: assets/img/NewImages/auto1.jpg
+importance: 1
 category: work
 related_publications: true
 ---
@@ -14,13 +14,13 @@ The project extensively employed 3D printing and laser cutting for all of our pa
 I also spearheaded programming, optimizing Arduino code for intelligent navigation and decision-making.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\NewImages\auto1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NewImages/auto1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\NewImages\auto2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NewImages/auto2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\NewImages\bot3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NewImages/auto3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
