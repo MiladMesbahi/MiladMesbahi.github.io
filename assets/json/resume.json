@@ -176,28 +176,27 @@
   "projects": [
     {
       "name": "Senior Capstone Project: Autonomous Rover 2.0",
-      "summary": "Mechanical design lead and programming co-lead for an autonomous rover with computer vision, object handling, and course navigation.",
-      "highlights": ["As my senior capstone project at UCLA, our team of five built a rover over two quarters. Designed to navigate an obstacle course, the rover identified, collected, and delivered burger-forming discs using IR sensors and computer vision. As the mechanical design lead and co-lead for programming, I ensured robust structure and functionality within a $500 budget. The Mecanum wheel drive system provided omnidirectional movement, and a stepper motor-controlled claw handled stacking. Using a Raspberry Pi Zero 2 W and OpenCV, the computer vision system detected die numbers on discs for collection order and drop-off location. Our rover successfully completed the course, being the only group to use camera software for die number detection."]
+      "summary": "Mechanical design lead and programming co-lead for an autonomous rover with computer vision, object handling, and course navigation."
     },
     {
       "name": "Autonomous Rover",
-      "summary": "Engineered a wireless-controlled rover capable of autonomous navigation and environmental interaction.",
-      "highlights": ["In my first hands-on robotics venture, I designed and built an autonomous rover capable of navigating an obstacle course. Using SolidWorks, I developed a robust chassis to house all components efficiently. Our grabbing mechanism used rubberized clampers for object retrieval. The project extensively employed 3D printing technology, utilizing Prusa slicer software and UCLA's facilities to create parts like motor mounts and battery pack holders. I also spearheaded programming, optimizing Arduino code for intelligent navigation and decision-making."]
+      "summary": "Engineered a wireless-controlled rover capable of autonomous navigation and environmental interaction."
     },
     {
       "name": "Robotic Battle Bot",
-      "summary": "Led the design and construction of a one-pound battle robot that finished 2nd place in student competition.",
-      "highlights": ["As a team of 2, we engineered a 1-pound combat robot, focusing on balancing durability and agility. Using high-quality aluminum, I optimized the strength-to-weight ratio while maintaining structural integrity. The robot's standout feature was an 'egg beater' weapon, comprising 30% of the total mass, designed to undercut opponents effectively. Although manually controlled via Bluetooth, we ensured robust electronic setup and protection for intense combat scenarios. Leveraging Finite Element Method (FEM) analyses, I reinforced structural weak points, leading to iterative improvements. Our compact and strategic design earned a notable second place in a highly competitive battle."]
+      "summary": "Led the design and construction of a one-pound battle robot that finished 2nd place in student competition."
     },
     {
       "name": "Robotic Arm Manipulator Design",
-      "summary": "Designed a CAD octopus-inspired robotic manipulator achieving six degrees of freedom with 60 unique parts.",
-      "highlights": ["In our SolidWorks CAD project, we designed a robotic manipulator inspired by an octopus tentacle's flexibility, suitable for manufacturing. We adhered to seven key specifications, including achieving six degrees of freedom, emulating ball joint mobility, and maximizing joint motion range while ensuring design simplicity with axial revolution, planar rotation, and Servo-Motor CAD. The final design featured five subassemblies, using a mix of off-the-shelf parts and 3D-printed ABS thermoplastic components. Although the initial design met basic criteria, future iterations will focus on joint complexity, weight optimization, and advanced manufacturing techniques."]
+      "summary": "Designed a CAD octopus-inspired robotic manipulator achieving six degrees of freedom with 60 unique parts."
     },
     {
       "name": "Compliant MEMS micro-mirror system",
-      "summary": "Modeled a high-speed, precision flexure-based micro-mirror for adaptive optics.",
-      "highlights": ["I designed and optimized a MEMS-based compliant micro-mirror system with a single translational degree of freedom for precise light modulation in adaptive optics. Utilizing the Freedom and Constraint Topologies (FACT) framework and Finite Element Analysis (FEA), the micro-mirror achieved a maximum displacement of 125 micrometers with minimal parasitic motion. The design employed six wire flexures and parallel plate actuators to ensure high-speed operation and energy efficiency."]
+      "summary": "Modeled a high-speed, precision flexure-based micro-mirror for adaptive optics."
+    },
+    {
+      "name": "Active Suspension System Design using MATLAB and Simulink",
+      "summary": "Modeled and analyzed a quarter car model suspension system in MATLAB, derived transfer functions, designed feedback controllers, and optimized system response using Bode plots, Nyquist diagrams, and root locus techniques."
     },
     {
       "name": "Arduino-based Guitar Tuner",

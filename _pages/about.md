@@ -8,15 +8,18 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+   <p>First Year Masters Student</p>
     <p>Philadelphia, PA</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! I'm Milad Mesbahi, a recent UCLA graduate with a Bachelors in Mechanical Engineering, now diving into the world of robotics at UPenn for my Masters. I'm on a mission to use my education to empower people and communities around the globe, though I'm still figuring out exactly how that'll manifest in my career.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a passionate learner with complimentary interests in history, economics, and philosophy. I believe having an interdisciplinary approach is necessary for engineers to possess as we collectivly combat 21st-century problems, especially as we grapple with the ethical implications of emerging technologies. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As I progress in my career, I'll be updating this website to share my journey, showcase my projects, and document where my life path takes me. I'm excited to connect with like-minded individuals and organizations who share my vision for using technology to create positive change.
+
+Stay tuned as I navigate the intersection of robotics, social impact, and innovation. Please feel free to reach out as well!

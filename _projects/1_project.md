@@ -12,8 +12,7 @@ As my senior capstone project at UCLA, our team of five built a rover over two q
 
 As the mechanical design lead and co-lead for programming, I ensured robust structure and functionality within a $500 budget. The Mecanum wheel drive system provided omnidirectional movement, and a stepper motor-controlled claw handled stacking. Using a Raspberry Pi Zero 2 W and OpenCV, the computer vision system detected die numbers on discs for collection order and drop-off location. 
 
-Our rover successfully completed the course, being the only group to use camera software for die number detection.
-
+ Our rover successfully completed the course, being the only group to use camera software for die number detection.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/NewImages/project11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -26,7 +25,6 @@ Our rover successfully completed the course, being the only group to use camera 
     </div>
 </div>
 <div class="caption">
- Our rover successfully completed the course, being the only group to use camera software for die number detection.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
