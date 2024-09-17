@@ -3,7 +3,7 @@ layout: page
 title: Manual and CNC Machining
 description: Mini Chair Manufactured Using Manual and CNC Machining Techniques
 img: assets/img/NewImages/chair3.jpg
-importance: 1
+importance: 9
 category: work
 related_publications: false
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Arduino-based Guitar Tuner
 description: Guitar Tuner Built From Scratch Using Physics Principles
 img: assets/img/tuner1.jpg
-importance: 1
+importance: 10
 category: work
 related_publications: false
 ---

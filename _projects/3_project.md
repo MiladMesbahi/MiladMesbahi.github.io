@@ -3,7 +3,7 @@ layout: page
 title: Autonomous Rover
 description: My First Advanced Robotics Project
 img: assets/img/NewImages/auto1.jpg
-importance: 1
+importance: 6
 category: work
 related_publications: false
 ---

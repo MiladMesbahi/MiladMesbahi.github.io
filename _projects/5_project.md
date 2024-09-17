@@ -3,7 +3,7 @@ layout: page
 title: Compliant MEMS micro-mirror system
 description: High-speed, Precision Flexure-based Micro-mirror
 img: assets/img/NewImages/mirror1.jpg
-importance: 1
+importance: 8
 category: work
 related_publications: false
 ---

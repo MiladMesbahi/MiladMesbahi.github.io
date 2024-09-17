@@ -3,7 +3,7 @@ layout: page
 title: Autonomous Rover 2.0
 description: UCLA Capstone Project
 img: assets/img/NewImages/rover2.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---

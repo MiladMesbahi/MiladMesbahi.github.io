@@ -3,7 +3,7 @@ layout: page
 title: Battle Bot
 description: UCLA Battle Bot Competition
 img: assets/img/NewImages/bot1.jpg
-importance: 1
+importance: 4
 category: work
 related_publications: false
 ---

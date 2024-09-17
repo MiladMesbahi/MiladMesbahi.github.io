@@ -3,7 +3,7 @@ layout: page
 title: Robotic Arm Manipulator Design 
 description: 6 Degree of Freedom Manipulator Designed for Manufacturing Feasibility
 img: assets/img/NewImages/cad4.jpg
-importance: 1
+importance: 5
 category: work
 related_publications: false
 ---

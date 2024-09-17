@@ -3,7 +3,7 @@ layout: page
 title: MatLab Quarter Car Model Controls
 description: Active Suspension System Design using MATLAB and Simulink
 img: assets/img/NewImages/control0.jpg
-importance: 1
+importance: 7
 category: work
 related_publications: false
 
@@ -29,6 +29,6 @@ Additionally, I utilized MATLAB's SISOTOOL to fine-tune the compensator design, 
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/NewImages/control0.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NewImages/control4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
